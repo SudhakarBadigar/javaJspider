@@ -1,4 +1,4 @@
-package coreJava;
+package Basic;
 
 public class Forloop {
 

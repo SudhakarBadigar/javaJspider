@@ -1,6 +1,6 @@
 //print even numbers in reverse order i.e: 10 8 6 4 2 
 
-package coreJava;
+package Basic;
 
 public class EvenReverse {
 
