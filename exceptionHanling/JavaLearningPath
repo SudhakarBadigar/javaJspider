@@ -1,0 +1,56 @@
+javaGeeksForGeeks
+Course Content
+01
+  Week 01:
+Java OOPS Concepts: Object, Class, Inheritance,Polymorphism, Abstraction, Encapsulation
+Exception Handling in Java
+Java Collection
+
+02
+Week 02:
+Streams and File Handling in Java
+Threads in Java: Multithreading related concepts, problems and their solutions
+Maven
+
+03
+Week 03:
+Introduction to Web Services
+Introduction Spring Framework
+Introduction to Spring Boot
+RESTful Web Services with Spring and Spring Boot
+
+04
+Week 04:
+RESTful APIs
+Introduction to MySql
+JDBC (Java Database Connectivity) 
+Data Access Using JDBC Template
+
+05
+Week 05:
+Introduction to JPA, Hibernate & Spring Data
+Minor Project 1: Developing a Web App (Micro-service) using Spring Boot + Hibernate + MySQL + RESTful A
+
+06
+Week 06:
+Redis
+Redis with Spring Boot
+Spring Security
+
+07
+Week 07:
+OAuth 2.0 
+Minor Project 2: Developing a Web App (Micro-service) using 
+Spring Boot + Hibernate + MySQL+ RESTful APIs + OAuth 2 + Security
+
+08
+Week 08:
+Kafka
+Kafka with Spring Boot
+
+09
+Week 9:
+Major Project: Developing a complete Web App (that includes some Spring Boot-based Microservices) 
+for an e-wallet (like Paytm) App, using Spring Boot + Hibernate + MySQL + RESTful APIs + 
+Redis + Kafka +OAuth 2+ Security. It will have all the common functionalities that any e-wallet 
+(like Paytm) can have.
