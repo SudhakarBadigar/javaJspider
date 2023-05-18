@@ -14,6 +14,10 @@ public class LinkedListEx {
 		l1.add("object");
 		
 		System.out.println(l1);
+		System.out.println(".........");
+		for(int i = 0; i<=l1.size()-1;i++) {
+			System.out.print(l1.get(i) + " ");
+		}
 		
 	}
 }
