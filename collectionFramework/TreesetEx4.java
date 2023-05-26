@@ -16,12 +16,25 @@ class StudentData implements Comparable<StudentData>{
 	public String toString() {
 		return "rollno: " + rollno +" Name: " + name;
 	}
+	
+	//sort on based on RollNo
 	@Override
-	//sorting names(alphabets) in reverse order
-	public int compareTo(StudentData c) {
-		return c.name.compareTo(this.name);
+	public int compareTo(StudentData a) {
+		return this.rollno - a.rollno;
+		
 	}
 }
+	
+	
+	
+	
+	
+//	@Override
+//	//sorting names(alphabets) in reverse order
+//	public int compareTo(StudentData c) {
+//		return c.name.compareTo(this.name);
+//	}
+//}
 
 public class TreesetEx4 {
 	public static void main(String[] args) {
@@ -46,10 +59,8 @@ public class TreesetEx4 {
 		
 		for(StudentData data : t) {
 			System.out.println(data);
-		}
-		
-		
-		
+		}	
 	}
-
 }
+
+
