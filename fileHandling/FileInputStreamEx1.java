@@ -11,9 +11,17 @@ public class FileInputStreamEx1 {
 		f.createNewFile();
 		
 		FileInputStream fis = new FileInputStream(f);
-		for(int i=0;i<f.length();i++) {
-			System.out.print((char)fis.read());
-			}	
+		int asciicode;
+		while((asciicode=fis.read()) != -1) {
+			System.out.print((char)asciicode);
+		}
+		
+		
+		
+		
+//		for(int i=0;i<f.length();i++) {
+//			System.out.print((char)fis.read());
+//			}	
 		fis.close();	
 	}
 	
