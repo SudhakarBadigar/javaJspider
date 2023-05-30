@@ -1,0 +1,5 @@
+Different ways to read file
+1.fileInputStream
+2.fileReader
+3.Scanner
+4.BufferedReader

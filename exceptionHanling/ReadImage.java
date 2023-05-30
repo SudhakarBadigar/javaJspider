@@ -7,7 +7,7 @@ package exceptionHanling;
 	import javax.imageio.ImageIO;
 
 		public class ReadImage {
-	    public static void main(String[] args) {
+	    public static void main(String[] args) throws IOException {
 	        try {
 	            // Specify the path to the JPG file
 	            String filePath = "C:\\Users\\DELL\\Desktop\\Collections-in-Java.jpg";
